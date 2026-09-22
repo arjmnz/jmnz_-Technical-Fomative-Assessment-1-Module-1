@@ -1,7 +1,7 @@
 <section>
     <p class="eyebrow">Accounts</p>
     <h1>Customer Accounts</h1>
-    <p>These records come from a static PHP array in <code>Customers.php</code>.</p>
+   
 
     <table>
         <thead><tr><th>Full Name</th><th>Email</th><th>Phone</th></tr></thead>

@@ -1,6 +1,6 @@
     </main>
     <footer class="site-footer">
-        <div class="wrapper">IT0049 CodeIgniter POS Foundations</div>
+        <div class="wrapper"></div>
     </footer>
 </body>
 </html>

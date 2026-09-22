@@ -1,7 +1,6 @@
 <section>
     <p class="eyebrow">Accounts</p>
     <h1>User Accounts</h1>
-    <p>These records come from a static PHP array in <code>Users.php</code>.</p>
 
     <table>
         <thead><tr><th>Username</th><th>Full Name</th><th>Role</th></tr></thead>
